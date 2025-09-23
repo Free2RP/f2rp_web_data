@@ -1,0 +1,30 @@
+{
+  "title": "FREE2RP LLC Tebex Refund Policy",
+  "platform": "Tebex",
+  "scope": "Digital items and subscriptions purchased for FREE2RP",
+  "intro": "All rewards are granted immediately upon purchase. By completing your purchase, you waive your right to withdraw once the digital service is delivered under EU consumer protection laws.",
+  "refunds": {
+    "general_rule": "No refunds are offered except in extreme or drastic extenuating circumstances, at our sole discretion.",
+    "possible_qualifying_circumstances_examples": [
+      "Financial hardship",
+      "Serious illness",
+      "Death in the family",
+      "Other significant real-life emergencies"
+    ],
+    "discretion_note": "Refunds under these circumstances are not guaranteed."
+  },
+  "subscriptions": {
+    "cancellation_process": "Cancel recurring subscriptions directly through Tebex to prevent renewal.",
+    "manage_link": "https://checkout.tebex.io/payment-history/login",
+    "support_ticket_warning": "Cancellation requests via support tickets may be delayed due to limited staff; use the automated Tebex link for faster processing."
+  },
+  "reminders": [
+    "Tebex provides multiple notices 20–30 days prior to subscription renewals, plus reminders closer to the renewal date.",
+    "Failure to cancel before the renewal date will not qualify for a refund unless under extreme circumstances.",
+    "Chargebacks will result in bans from the server as outlined in our rules."
+  ],
+  "chargebacks": {
+    "policy": "Chargebacks are considered fraudulent by payment processors and incur fees for the server. Chargebacks are strictly against the rules.",
+    "recommendation": "Contact staff first via support if you encounter payment issues."
+  }
+}
