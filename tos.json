@@ -1,0 +1,74 @@
+{
+  "title": "FREE2RP Terms of Service",
+  "service_name": "FREE2RP",
+  "company": "FREE2RP LLC",
+  "domain": "https://www.free2rp.com",
+  "acceptance": {
+    "description": "By accessing or using our services, you agree to be bound by these Terms of Service, our Privacy Policy, and our Ruleset.",
+    "related_policies": [
+      "Privacy Policy",
+      "Ruleset"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "General Terms",
+      "items": [
+        "FREE2RP LLC reserves the right to change, modify, or update these ToS at any time without prior notice.",
+        "We reserve the right to terminate, suspend, or modify our services, or any portion thereof, at any time.",
+        "We are not responsible for any damages or losses incurred as a result of using our services.",
+        "FREE2RP is not affiliated with Rockstar or any entity associated with the Grand Theft Auto series."
+      ]
+    },
+    {
+      "heading": "Prohibited Conduct",
+      "items": [
+        "You may not use our services for any illegal or unauthorized purpose.",
+        "Harassment, threats, or intimidation of other players is strictly prohibited.",
+        "Exploiting bugs or glitches is not allowed. Report issues immediately to our staff.",
+        "You may not claim ownership of any materials from GTA 5 or FiveM.",
+        "You must be at least 18 years of age to play on our server."
+      ]
+    },
+    {
+      "heading": "Refund Policy",
+      "items": [
+        "All purchases made through our Tebex store are final and non-refundable.",
+        "Chargebacks may result in a permanent ban from our server."
+      ]
+    },
+    {
+      "heading": "Disclaimer of Warranties",
+      "items": [
+        "No warranties, express or implied, are made regarding the accuracy or reliability of our services.",
+        "We do not guarantee that our services will be error-free or uninterrupted.",
+        "FREE2RP LLC is not responsible for any damages or losses incurred as a result of using our services."
+      ]
+    },
+    {
+      "heading": "Limitation of Liability",
+      "items": [
+        "We are not liable for any direct, indirect, incidental, or consequential damages.",
+        "Our liability shall not exceed the amount paid for our services."
+      ]
+    },
+    {
+      "heading": "Indemnification",
+      "items": [
+        "You agree to indemnify and hold harmless FREE2RP LLC from any claims arising out of your use of our services."
+      ]
+    },
+    {
+      "heading": "Governing Law",
+      "items": [
+        "These ToS are governed by the laws of the United States and the State of California."
+      ]
+    },
+    {
+      "heading": "Entire Agreement",
+      "items": [
+        "These ToS, along with our Privacy Policy and Ruleset, constitute the entire agreement between you and FREE2RP LLC."
+      ]
+    }
+  ]
+}
