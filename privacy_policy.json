@@ -1,0 +1,70 @@
+{
+  "title": "FREE2RP Privacy Policy",
+  "company": "FREE2RP LLC",
+  "applies_to": "Users of FREE2RP services",
+  "contact": {
+    "support": "Discord support ticket",
+    "discord_invite": "https://discord.gg/free2rp"
+  },
+  "sections": [
+    {
+      "heading": "Information We Collect",
+      "personal_information_examples": [
+        "Email address",
+        "IP address"
+      ],
+      "non_personal_information_examples": [
+        "Device type",
+        "Browser type",
+        "Pages visited"
+      ]
+    },
+    {
+      "heading": "How We Use Your Information",
+      "uses": [
+        "Provide and improve our services",
+        "Communicate with you about our services",
+        "Fulfill legal obligations",
+        "Analytical purposes and service monitoring",
+        "Develop new products and features"
+      ]
+    },
+    {
+      "heading": "How We Share Your Information",
+      "statements": [
+        "FREE2RP LLC does not sell or rent your personal information to third parties.",
+        "We may share personal information with third-party service providers that assist in providing our services, such as payment processors or hosting providers.",
+        "We may disclose personal information if required by law or in response to a valid request from law enforcement or governmental authorities."
+      ]
+    },
+    {
+      "heading": "Security",
+      "statements": [
+        "FREE2RP LLC takes reasonable measures to protect your personal information from unauthorized access, disclosure, or destruction.",
+        "We cannot guarantee the security of your information; you provide it at your own risk."
+      ]
+    },
+    {
+      "heading": "Your Rights and Choices",
+      "rights": [
+        "Access, correct, or delete your personal information",
+        "Object to or restrict certain processing"
+      ],
+      "how_to_exercise": "Contact us via a support ticket on our Discord (https://discord.gg/free2rp)."
+    },
+    {
+      "heading": "Children's Privacy",
+      "statements": [
+        "FREE2RP LLC does not knowingly collect personal information from children under the age of 18.",
+        "If you are under 18, you may not use our services without the consent of a parent or legal guardian."
+      ]
+    },
+    {
+      "heading": "Changes to This Privacy Policy",
+      "statements": [
+        "FREE2RP LLC may change, modify, or update this Privacy Policy at any time without prior notice.",
+        "Continued use of our services after changes indicates acceptance of the updated policy."
+      ]
+    }
+  ]
+}
