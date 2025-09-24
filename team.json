@@ -9,27 +9,25 @@
         "name": "SSHWAAMY",
         "role": "Founder",
         "avatar": "https://cdn.discordapp.com/embed/avatars/1.png",
-        "links": [{ "label": "Discord", "href": "$DISCORD" }],
         "badges": ["Founder"]
       },
       {
         "name": "Jroc26",
         "role": "Co-Founder",
-        "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+        "avatar": "https://cdn.discordapp.com/embed/avatars/1.png",
         "badges": ["Co-Founder"]
       },
       {
         "name": "Chewster",
         "role": "Co-Founder",
-        "avatar": "https://cdn.discordapp.com/embed/avatars/3.png",
+        "avatar": "https://cdn.discordapp.com/embed/avatars/1.png",
         "badges": ["Co-Founder"]
       },
       {
         "name": "ThatMaddLadd",
         "role": "Development Manager",
         "avatar": "https://avatars.githubusercontent.com/u/35810485?v=4",
-        "badges": ["Lead"],
-        "links": [{ "label": "GitHub", "href": "https://github.com/ThatMaddLaddOrg" }]
+        "badges": ["Lead"]
       }
     ]
   },
@@ -37,13 +35,17 @@
     "id": "staff",
     "title": "Staff & Moderation",
     "description": "Coaching-first moderation and community wellness.",
-    "cols": 4,
+    "cols": 3,
     "members": [
-      { "name": "Staff A", "role": "Senior Staff", "avatar": "https://cdn.discordapp.com/embed/avatars/7.png" },
-      { "name": "Staff B", "role": "Staff", "avatar": "https://cdn.discordapp.com/embed/avatars/8.png" },
-      { "name": "Staff C", "role": "Staff", "avatar": "https://cdn.discordapp.com/embed/avatars/9.png" },
-      { "name": "Appeals", "role": "Appeals", "avatar": "https://cdn.discordapp.com/embed/avatars/0.png" },
-      { "name": "Coaching", "role": "Player Coach", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png" }
+      { "name": "Tombha", "role": "Senior Moderator", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png" },
+      { "name": "Marc", "role": "Moderator", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png" },
+      { "name": "Grandpa", "role": "Moderator", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png" },
+      { "name": "Khana", "role": "Moderator", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png" },
+      { "name": "Grace", "role": "Moderator", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png" },
+      
+      { "name": "Tater Chip", "role": "Moderator", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png" },
+      { "name": "Dudekid", "role": "Moderator", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png" },
+      { "name": "Eymasnob", "role": "Moderator", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png" }
     ]
   },
   {
@@ -53,12 +55,12 @@
     "cols": 3,
     "members": [
       { "name": "Andee", "role": "3D Lead", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png" },
-      { "name": "iRoyal", "role": "Bot Lead", "avatar": "https://cdn.discordapp.com/embed/avatars/5.png" },
-      { "name": "Winter", "role": "Vehicle Lead", "avatar": "https://cdn.discordapp.com/embed/avatars/2.png" },
-      { "name": "Craytex", "role": "Senior Developer", "avatar": "https://cdn.discordapp.com/embed/avatars/4.png" },
-      { "name": "MyransGhost", "role": "3D Developer", "avatar": "https://cdn.discordapp.com/embed/avatars/2.png" },
-      { "name": "Dutch Courage", "role": "3D Developer", "avatar": "https://cdn.discordapp.com/embed/avatars/0.png" },
-      { "name": "ArkeologeN", "role": "Developer", "avatar": "https://cdn.discordapp.com/embed/avatars/2.png" }
+      { "name": "iRoyal", "role": "Bot Lead", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png" },
+      { "name": "Winter", "role": "Vehicle Lead", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png" },
+      { "name": "Craytex", "role": "Senior Developer", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png" },
+      { "name": "MyransGhost", "role": "3D Developer", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png" },
+      { "name": "Dutch Courage", "role": "3D Developer", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png" },
+      { "name": "ArkeologeN", "role": "Developer", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png" }
     ]
   },
   {
@@ -67,9 +69,9 @@
     "description": "Application Helpers grinding away at your apps.",
     "cols": 3,
     "members": [
-      { "name": "Comms Lead", "role": "Comms", "title": "Announcements & Socials", "avatar": "https://cdn.discordapp.com/embed/avatars/2.png" },
-      { "name": "Events", "role": "Events", "title": "In-City Events", "avatar": "https://cdn.discordapp.com/embed/avatars/3.png" },
-      { "name": "Design", "role": "Designer", "title": "Brand & Graphics", "avatar": "https://cdn.discordapp.com/embed/avatars/4.png" }
+      { "name": "bigjuicetv", "role": "Helper", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png" },
+      { "name": "viableartifact", "role": "Helper", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png" },
+      { "name": "tennessebandit", "role": "Helper", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png" }
     ]
   }
 ]
