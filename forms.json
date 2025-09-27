@@ -1,0 +1,534 @@
+[
+  {
+    "key": "allowlist",
+    "title": "Allowlist Application",
+    "description": "Want to jump in on the fun? Apply via this application when you're ready.",
+    "isOpen": true,
+    "subjectFrom": "discord_name",
+    "forbiddenIfAnyRoleIds": ["1343245101132152850"],
+    "forbidMessage": "You're already a Civilian and cannot submit another allowlist application.",
+    "onAcceptAddRoleIds": ["1343245101132152850"],
+    "onAcceptRemoveRoleIds": ["1346237440628621444"],
+    "questions": [
+      {
+        "type": "select",
+        "key": "age_18_plus",
+        "label": "Are you 18 years or older?",
+        "options": [
+          { "value": "Yes", "label": "Yes" },
+          { "value": "No", "label": "No" }
+        ],
+        "required": true
+      },
+      {
+        "type": "text",
+        "key": "mic_clip_url",
+        "label": "Quality Microphone: Link to clip/recording",
+        "placeholder": "https://...",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "key": "experience",
+        "label": "Experience: Tell us about your roleplay experience. How long have you been roleplaying?",
+        "required": true,
+        "maxLength": 3000,
+        "rows": 8
+      },
+      {
+        "type": "textarea",
+        "key": "servers",
+        "label": "Roleplay History: What servers have you been on?",
+        "required": true,
+        "maxLength": 2000,
+        "rows": 7
+      },
+      {
+        "type": "select",
+        "key": "bans",
+        "label": "Ban History: Have you ever been banned on a server?",
+        "options": [
+          { "value": "No", "label": "No" },
+          { "value": "Yes", "label": "Yes" }
+        ],
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "key": "creator_links",
+        "label": "Content creator links (Twitch, Kick, etc)",
+        "placeholder": "Links or N/A",
+        "rows": 5
+      },
+      {
+        "type": "textarea",
+        "key": "regret_moment",
+        "label": "Roleplay Reflection: Describe a roleplay moment you regret. How would you handle it now?",
+        "required": true,
+        "maxLength": 3000,
+        "rows": 8
+      },
+      {
+        "type": "textarea",
+        "key": "impactful_moment",
+        "label": "Roleplay Q1: Your most impactful moment you facilitated for others",
+        "required": true,
+        "maxLength": 3000,
+        "rows": 8
+      },
+      {
+        "type": "textarea",
+        "key": "inspired_by",
+        "label": "Roleplay Q2: A time someone's RP inspired you",
+        "required": true,
+        "maxLength": 3000,
+        "rows": 8
+      },
+      {
+        "type": "textarea",
+        "key": "rule_violation",
+        "label": "Roleplay Q3: Handling a clear rule violation you witness",
+        "required": true,
+        "maxLength": 3000,
+        "rows": 8
+      },
+      {
+        "type": "textarea",
+        "key": "staff_cross_line",
+        "label": "Roleplay Q4: Staff crossed a line; how did you respond?",
+        "required": true,
+        "maxLength": 3000,
+        "rows": 8
+      },
+      {
+        "type": "select",
+        "key": "read_rules",
+        "label": "Did you read and understand our rules?",
+        "options": [
+          { "value": "yes", "label": "Yes" },
+          { "value": "no", "label": "No" }
+        ],
+        "required": true
+      },
+      {
+        "type": "text",
+        "key": "rules_link",
+        "label": "Post the link to our Rules page",
+        "placeholder": "https://free2rp.com/rules",
+        "required": true
+      },
+      {
+        "type": "text",
+        "key": "heard_about",
+        "label": "Where did you hear about our server?",
+        "required": true
+      },
+      {
+        "type": "text",
+        "key": "timezones",
+        "label": "Which timezone(s) are you most active?",
+        "placeholder": "e.g. GMT / EST",
+        "required": true
+      },
+      {
+        "type": "text",
+        "key": "discord_name",
+        "label": "Discord Username (name#0000)",
+        "required": true
+      }
+    ]
+  },
+  {
+    "key": "expedited_allowlist",
+    "title": "Expedited Application",
+    "description": "Want to jump in on the fun? Apply via this application when you're ready.",
+    "isOpen": true,
+    "subjectFrom": "discord_name",
+    "forbiddenIfAnyRoleIds": ["1343245101132152850"],
+    "forbidMessage": "You're already a Civilian and cannot submit another allowlist application.",
+    "requiresAnyRoleIds": ["1343245101236879426"],
+    "onAcceptAddRoleIds": ["1343245101132152850"],
+    "onAcceptRemoveRoleIds": ["1343245101236879426"],
+    "onDenyRemoveRoleIds": ["1343245101236879426"],
+    "questions": [
+      {
+        "type": "select",
+        "key": "age_18_plus",
+        "label": "Are you 18 years or older?",
+        "options": [
+          { "value": "Yes", "label": "Yes" },
+          { "value": "No", "label": "No" }
+        ],
+        "required": true
+      },
+      {
+        "type": "text",
+        "key": "mic_clip_url",
+        "label": "Quality Microphone: Link to clip/recording",
+        "placeholder": "https://...",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "key": "experience",
+        "label": "Experience: Tell us about your roleplay experience. How long have you been roleplaying?",
+        "required": true,
+        "maxLength": 3000,
+        "rows": 8
+      },
+      {
+        "type": "textarea",
+        "key": "servers",
+        "label": "Roleplay History: What servers have you been on?",
+        "required": true,
+        "maxLength": 2000,
+        "rows": 7
+      },
+      {
+        "type": "select",
+        "key": "bans",
+        "label": "Ban History: Have you ever been banned on a server?",
+        "options": [
+          { "value": "No", "label": "No" },
+          { "value": "Yes", "label": "Yes" }
+        ],
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "key": "creator_links",
+        "label": "Content creator links (Twitch, Kick, etc)",
+        "placeholder": "Links or N/A",
+        "rows": 5
+      },
+      {
+        "type": "textarea",
+        "key": "regret_moment",
+        "label": "Roleplay Reflection: Describe a roleplay moment you regret. How would you handle it now?",
+        "required": true,
+        "maxLength": 3000,
+        "rows": 8
+      },
+      {
+        "type": "textarea",
+        "key": "impactful_moment",
+        "label": "Roleplay Q1: Your most impactful moment you facilitated for others",
+        "required": true,
+        "maxLength": 3000,
+        "rows": 8
+      },
+      {
+        "type": "textarea",
+        "key": "inspired_by",
+        "label": "Roleplay Q2: A time someone's RP inspired you",
+        "required": true,
+        "maxLength": 3000,
+        "rows": 8
+      },
+      {
+        "type": "textarea",
+        "key": "rule_violation",
+        "label": "Roleplay Q3: Handling a clear rule violation you witness",
+        "required": true,
+        "maxLength": 3000,
+        "rows": 8
+      },
+      {
+        "type": "textarea",
+        "key": "staff_cross_line",
+        "label": "Roleplay Q4: Staff crossed a line; how did you respond?",
+        "required": true,
+        "maxLength": 3000,
+        "rows": 8
+      },
+      {
+        "type": "select",
+        "key": "read_rules",
+        "label": "Did you read and understand our rules?",
+        "options": [
+          { "value": "yes", "label": "Yes" },
+          { "value": "no", "label": "No" }
+        ],
+        "required": true
+      },
+      {
+        "type": "text",
+        "key": "rules_link",
+        "label": "Post the link to our Rules page",
+        "placeholder": "https://free2rp.com/rules",
+        "required": true
+      },
+      { "type": "text", "key": "heard_about", "label": "Where did you hear about our server?", "required": true },
+      {
+        "type": "text",
+        "key": "timezones",
+        "label": "Which timezone(s) are you most active?",
+        "placeholder": "e.g. GMT / EST",
+        "required": true
+      },
+      { "type": "text", "key": "discord_name", "label": "Discord Username (name#0000)", "required": true }
+    ]
+  },
+  {
+    "key": "staff",
+    "title": "Staff Application",
+    "description": "Want to help out and join our Staff Team? Apply today.",
+    "isOpen": true,
+    "subjectFrom": "full_name",
+    "requiresAnyRoleIds": ["1343245101132152850"],
+    "requireMessage": "You must be a Civilian to apply for Staff.",
+    "questions": [
+      {
+        "type": "select",
+        "key": "acknowledge",
+        "label": "Acknowledgement of role seriousness",
+        "options": [{ "value": "Heard", "label": "Heard" }],
+        "required": true
+      },
+      { "type": "text", "key": "full_name", "label": "Full Name (First and Last)", "required": true },
+      { "type": "text", "key": "discord_username", "label": "Discord Username (including #ID)", "required": true },
+      { "type": "text", "key": "age", "label": "Age (21+ required)", "required": true },
+      { "type": "text", "key": "timezone", "label": "Time Zone", "required": true },
+      {
+        "type": "textarea",
+        "key": "membership_length",
+        "label": "How long have you been a Free2RP member?",
+        "required": true,
+        "rows": 5
+      },
+      {
+        "type": "textarea",
+        "key": "mod_experience",
+        "label": "Experience in moderation/server management",
+        "required": true,
+        "maxLength": 4000,
+        "rows": 7
+      },
+      {
+        "type": "textarea",
+        "key": "scenario_reform",
+        "label": "Scenario: applicant with past infractions on other servers",
+        "required": true,
+        "maxLength": 3000,
+        "rows": 7
+      },
+      {
+        "type": "textarea",
+        "key": "mod_history",
+        "label": "Past moderator roles and examples",
+        "required": true,
+        "maxLength": 4000,
+        "rows": 7
+      },
+      {
+        "type": "textarea",
+        "key": "rules_understanding",
+        "label": "Understanding of Free2RP rules/policies",
+        "required": true,
+        "maxLength": 4000,
+        "rows": 7
+      },
+      {
+        "type": "textarea",
+        "key": "why_you",
+        "label": "What sets you apart? Why trust you?",
+        "required": true,
+        "maxLength": 3000,
+        "rows": 7
+      },
+      {
+        "type": "textarea",
+        "key": "scenario_ooc",
+        "label": "Scenario: repeated OOC during RP; handling",
+        "required": true,
+        "maxLength": 3000,
+        "rows": 7
+      },
+      {
+        "type": "textarea",
+        "key": "scenario_event_conflict",
+        "label": "Scenario: argument during event; resolution",
+        "required": true,
+        "maxLength": 3000,
+        "rows": 7
+      },
+      { "type": "textarea", "key": "availability", "label": "Typical weekly availability", "required": true, "rows": 5 },
+      { "type": "textarea", "key": "balance", "label": "Balancing real-life and moderation duties", "required": true, "rows": 5 },
+      {
+        "type": "select",
+        "key": "evals_ok",
+        "label": "Willing to undergo periodic evaluations?",
+        "options": [
+          { "value": "YES", "label": "Yes" },
+          { "value": "NO", "label": "No" }
+        ],
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "key": "extra_skills",
+        "label": "Additional skills/qualifications",
+        "required": true,
+        "maxLength": 2000,
+        "rows": 5
+      },
+      {
+        "type": "textarea",
+        "key": "motivation",
+        "label": "Why Free2RP staff? What will you contribute?",
+        "required": true,
+        "maxLength": 4000,
+        "rows": 7
+      },
+      {
+        "type": "textarea",
+        "key": "discipline_history",
+        "label": "Any disciplinary history? Explain",
+        "required": true,
+        "maxLength": 4000,
+        "rows": 7
+      },
+      { "type": "text", "key": "signature_name", "label": "Signature (type your full name)", "required": true }
+    ]
+  },
+  {
+    "key": "developer",
+    "title": "Developer Application",
+    "description": "We're looking for contributors across Lua/JS, UI/UX, DevOps, tools, and performance. Share real examples and links.",
+    "isOpen": true,
+    "subjectFrom": "discord_username",
+    "requiresAnyRoleIds": ["1343245101132152850"],
+    "requireMessage": "You must be a Civilian to apply for Developer.",
+    "questions": [
+      { "type": "text", "key": "discord_username", "label": "Discord Username (including discriminator/ID)", "required": true },
+      { "type": "text", "key": "timezone", "label": "Time Zone", "placeholder": "e.g. GMT / EST", "required": true },
+      {
+        "type": "select",
+        "key": "primary_track",
+        "label": "Primary track",
+        "options": [
+          { "value": "lua", "label": "Lua (FiveM)" },
+          { "value": "typescript", "label": "TypeScript / Node" },
+          { "value": "frontend", "label": "Frontend (React/Next.js)" },
+          { "value": "devops", "label": "DevOps / Infra" },
+          { "value": "3d", "label": "3D / Vehicles / Assets" },
+          { "value": "other", "label": "Other" }
+        ],
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "key": "stack_overview",
+        "label": "Your stack overview (frameworks, tools, areas of strength)",
+        "required": true,
+        "maxLength": 2000,
+        "rows": 6
+      },
+      {
+        "type": "textarea",
+        "key": "fivem_experience",
+        "label": "FiveM experience (resources shipped, frameworks used, optimizations you've done)",
+        "required": true,
+        "maxLength": 3000,
+        "rows": 8
+      },
+      {
+        "type": "textarea",
+        "key": "notable_work",
+        "label": "Link examples (GitHub repos, clips, screenshots, Gists). Briefly describe each.",
+        "placeholder": "https://... one per line",
+        "required": true,
+        "maxLength": 3000,
+        "rows": 8
+      },
+      {
+        "type": "textarea",
+        "key": "availability",
+        "label": "Typical weekly availability (hours / days)",
+        "required": true,
+        "rows": 5
+      },
+      {
+        "type": "select",
+        "key": "comp_pref",
+        "label": "Compensation preference",
+        "options": [
+          { "value": "paid", "label": "Paid" },
+          { "value": "volunteer", "label": "Volunteer" },
+          { "value": "either", "label": "Either" }
+        ],
+        "required": true
+      },
+      {
+        "type": "select",
+        "key": "nda_ok",
+        "label": "Able to sign an NDA if required?",
+        "options": [
+          { "value": "YES", "label": "Yes" },
+          { "value": "NO", "label": "No" }
+        ],
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "key": "infra_notes",
+        "label": "Infra/DevOps (if applicable): Docker, Nginx, Cloudflare, MariaDB/Postgres, CI/CD, observability, etc.",
+        "maxLength": 2500,
+        "rows": 7
+      },
+      { "type": "text", "key": "github", "label": "GitHub (or code hosting)", "placeholder": "https://github.com/yourname" },
+      { "type": "text", "key": "portfolio", "label": "Portfolio / Website", "placeholder": "https://..." },
+      { "type": "text", "key": "signature_name", "label": "Signature (type your full name)", "required": true }
+    ]
+  },
+  {
+    "key": "ban_appeal",
+    "title": "Ban Appeal",
+    "description": "If you believe your ban was issued in error or you've reflected on the situation, submit your appeal with as much context as possible.",
+    "isOpen": true,
+    "subjectFrom": "discord_username",
+    "questions": [
+      { "type": "text", "key": "discord_username", "label": "Discord Username (name#0000 or name)", "required": true },
+      { "type": "text", "key": "discord_id", "label": "Discord ID", "placeholder": "e.g. 123456789012345678", "required": true },
+      { "type": "text", "key": "ban_id", "label": "Ban ID", "placeholder": "12BW-19D7", "required": true },
+      { "type": "text", "key": "character_names", "label": "Character name(s) involved", "placeholder": "If applicable" },
+      { "type": "text", "key": "ban_date", "label": "Approximate date of ban", "placeholder": "YYYY-MM-DD or 'Last week' if unsure" },
+      { "type": "text", "key": "banning_staff", "label": "Staff member who banned you (if known)", "placeholder": "Unknown if unsure" },
+      {
+        "type": "textarea",
+        "key": "ban_reason",
+        "label": "What was the reason for your ban? (what you were told or believe happened)",
+        "required": true,
+        "maxLength": 2000,
+        "rows": 6
+      },
+      {
+        "type": "textarea",
+        "key": "appeal_statement",
+        "label": "Why should we lift the ban? What have you learned and how will you avoid this in future?",
+        "required": true,
+        "maxLength": 3000,
+        "rows": 8
+      },
+      {
+        "type": "textarea",
+        "key": "evidence_links",
+        "label": "Links to evidence (clips, logs, screenshots)",
+        "placeholder": "https://... one per line or N/A",
+        "maxLength": 2000,
+        "rows": 5
+      },
+      {
+        "type": "select",
+        "key": "ack_rules",
+        "label": "I have re-read and accept the server rules",
+        "options": [
+          { "value": "YES", "label": "Yes" },
+          { "value": "NO", "label": "No" }
+        ],
+        "required": true
+      },
+      { "type": "text", "key": "rules_link", "label": "Post the link to our Rules page", "required": true }
+    ]
+  }
+]
