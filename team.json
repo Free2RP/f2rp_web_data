@@ -32,7 +32,7 @@
     "description": "Coaching-first moderation and community wellness.",
     "cols": 3,
     "members": [
-      { "name": "Tombha",       "role": "Senior Moderator", "discordId": "339731265924104193" },
+      { "name": "Tombha",       "role": "Administrator",    "discordId": "339731265924104193" },
       { "name": "Marc",         "role": "Moderator",        "discordId": "363114697706307595" },
       { "name": "Grandpa",      "role": "Moderator",        "discordId": "480351088537763840" },
       { "name": "Khana",        "role": "Moderator",        "discordId": "972568615712866384" },
