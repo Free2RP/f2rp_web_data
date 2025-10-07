@@ -21,7 +21,6 @@
       { "name": "iRoyal",        "role": "Bot Lead",         "discordId": "316725368742477835" },
       { "name": "Winter",        "role": "Vehicle Lead",     "discordId": "865982899738902529" },
       { "name": "Craytex",       "role": "Senior Developer", "discordId": "195193128062287872" },
-      { "name": "MyransGhost",   "role": "3D Developer",     "discordId": "210813595879997451" },
       { "name": "Dutch Courage", "role": "3D Developer",     "discordId": "178402106246561792" },
       { "name": "ArkeologeN",    "role": "Developer",        "discordId": "118107984495640580" }
     ]
@@ -50,7 +49,9 @@
     "members": [
       { "name": "Juice",      "role": "Helper", "discordId": "172864285804855296" },
       { "name": "Sebastien",  "role": "Helper", "discordId": "237355651335061505" },
-      { "name": "Kyle",  "role": "Helper", "discordId": "520794460079259658" }
+      { "name": "Kyle",  "role": "Helper", "discordId": "520794460079259658" },
+      { "name": "Eva",  "role": "Helper", "discordId": "92704203448811520" },
+      { "name": "Lurleen",  "role": "Helper", "discordId": "118200009828204550" }
     ]
   }
 ]
