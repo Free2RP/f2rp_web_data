@@ -8,8 +8,8 @@
       { "name": "SSHWAAMY", "role": "Founder",          "discordId": "335801911678599168", "badges": ["Owner"] },
       { "name": "Jroc26",    "role": "Co-Founder",       "discordId": "188559042220654592", "badges": ["Co-Owner"] },
       { "name": "Chewster",  "role": "Co-Founder",       "discordId": "148289176956043264", "badges": ["Co-Owner"] },
-      { "name": "ThatMaddLadd", "role":"Development Manager","discordId":"251058732027478017","badges":["Lead"] },
-      { "name": "iRoyal", "role":"Community Manager","discordId":"316725368742477835","badges":["Lead"] }
+      { "name": "ThatMaddLadd", "role":"Development Manager","discordId":"251058732027478017","badges":["Manager"] },
+      { "name": "iRoyal", "role":"Community Manager","discordId":"316725368742477835","badges":["Manager"] }
     ]
   },
   {
