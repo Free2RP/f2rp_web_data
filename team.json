@@ -19,7 +19,6 @@
     "cols": 3,
     "members": [
       { "name": "Andee",         "role": "3D Lead",          "discordId": "789663303928512513" },
-      { "name": "Winter",        "role": "Vehicle Lead",     "discordId": "865982899738902529" },
       { "name": "Craytex",       "role": "Senior Developer", "discordId": "195193128062287872" },
       { "name": "Dutch Courage", "role": "3D Developer",     "discordId": "178402106246561792" },
       { "name": "ArkeologeN",    "role": "Developer",        "discordId": "118107984495640580" }
