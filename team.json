@@ -21,7 +21,8 @@
       { "name": "Andee",         "role": "3D Lead",          "discordId": "789663303928512513" },
       { "name": "Craytex",       "role": "Senior Developer", "discordId": "195193128062287872" },
       { "name": "Dutch Courage", "role": "3D Developer",     "discordId": "178402106246561792" },
-      { "name": "ArkeologeN",    "role": "Developer",        "discordId": "118107984495640580" }
+      { "name": "ArkeologeN",    "role": "Developer",        "discordId": "118107984495640580" },
+      { "name": "Le S",          "role": "Trial Developer",  "discordId": "1200899994333499548" }
     ]
   },
   {
@@ -31,13 +32,14 @@
     "cols": 3,
     "members": [
       { "name": "Tombha",       "role": "Administrator",    "discordId": "339731265924104193" },
+      { "name": "Khana",        "role": "Senior Moderator",        "discordId": "972568615712866384" },
+      { "name": "Grace",        "role": "Senior Moderator",        "discordId": "675864546799386655" },
+      { "name": "Eymasnob",     "role": "Senior Moderator",        "discordId": "888120181384171551" },
       { "name": "Marc",         "role": "Moderator",        "discordId": "363114697706307595" },
       { "name": "Grandpa",      "role": "Moderator",        "discordId": "480351088537763840" },
-      { "name": "Khana",        "role": "Moderator",        "discordId": "972568615712866384" },
-      { "name": "Grace",        "role": "Moderator",        "discordId": "675864546799386655" },
       { "name": "Tater Chip",   "role": "Moderator",        "discordId": "1053176647622328360" },
       { "name": "Dudekid",      "role": "Moderator",        "discordId": "939388179851649125" },
-      { "name": "Eymasnob",     "role": "Moderator",        "discordId": "888120181384171551" }
+      { "name": "Eva",          "role": "Moderator",        "discordId": "92704203448811520" }
     ]
   },
   {
@@ -49,7 +51,6 @@
       { "name": "Juice",      "role": "Helper", "discordId": "172864285804855296" },
       { "name": "Sebastien",  "role": "Helper", "discordId": "237355651335061505" },
       { "name": "Kyle",  "role": "Helper", "discordId": "520794460079259658" },
-      { "name": "Eva",  "role": "Helper", "discordId": "92704203448811520" },
       { "name": "Lurleen",  "role": "Helper", "discordId": "118200009828204550" }
     ]
   }
