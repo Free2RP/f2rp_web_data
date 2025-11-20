@@ -23,7 +23,7 @@
       {
         "type": "text",
         "key": "mic_clip_url",
-        "label": "Quality Microphone: Link to clip/recording",
+        "label": "Quality Microphone: Link to clip/recording, minimum of 15 seconds in length - Please use https://record.reverb.chat",
         "placeholder": "https://...",
         "required": true
       },
