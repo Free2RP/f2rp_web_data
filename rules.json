@@ -185,6 +185,13 @@
               "Maintain high RP quality.",
               "Avoid disruptive outfits/behaviour that break immersion."
             ]
+          },
+          {
+            "title": "Character Separation",
+            "points": [
+              "Your characters must never know of, reference, or acknowledge each other.",
+              "Your characters may not interact, influence, assist, or engage with one another in any way."
+            ]
           }
         ]
       },
