@@ -8,8 +8,8 @@
       {"name": "SSHWAAMY",        "role": "Founder",               "discordId": "335801911678599168"},
       {"name": "Jroc26",          "role": "Co-Founder",            "discordId": "188559042220654592"},
       {"name": "Chewster",        "role": "Co-Founder",            "discordId": "148289176956043264"},
-      {"name": "ThatMaddLadd",    "role":"Development Manager",    "discordId":"251058732027478017"},
-      {"name": "iRoyal",          "role":"Community Manager",      "discordId":"316725368742477835"}
+      {"name": "ThatMaddLadd",    "role": "Development Manager",   "discordId":"251058732027478017"},
+      {"name": "iRoyal",          "role": "Community Manager",     "discordId":"316725368742477835"}
     ]
   },
   {
@@ -23,7 +23,9 @@
       {"name": "Dutch Courage",   "role": "3D Developer",         "discordId": "178402106246561792"},
       {"name": "ArkeologeN",      "role": "Developer",            "discordId": "118107984495640580"},
       {"name": "Le S",            "role": "Junior Developer",     "discordId": "1200899994333499548"},
-      {"name": "Nova",            "role": "Junior Developer",     "discordId": "176795233323843584"}
+      {"name": "Nova",            "role": "Junior Developer",     "discordId": "176795233323843584"},
+      {"name": "Nix",             "role": "Trial Developer",      "discordId": "181111061360017408"},
+      {"name": "Raya",            "role": "Trial Developer",      "discordId": "250373369516523523"}
     ]
   },
   {
@@ -54,7 +56,7 @@
       {"name": "Mischa",       "role": "Helper",                  "discordId": "118200009828204550"},
       {"name": "TobiasReaper", "role": "Helper",                  "discordId": "312029001491415041"},
       {"name": "Caspian",      "role": "Helper",                  "discordId": "524975598796406814"},
-      {"name": "Nix",           "role": "Helper",                  "discordId": "181111061360017408"}
+      {"name": "Clairbear",    "role": "Helper",                  "discordId": "330500593410113551"}
     ]
   }
 ]
