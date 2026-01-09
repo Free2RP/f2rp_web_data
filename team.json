@@ -23,6 +23,7 @@
       {"name": "Dutch Courage",   "role": "3D Developer",         "discordId": "178402106246561792"},
       {"name": "ArkeologeN",      "role": "Developer",            "discordId": "118107984495640580"},
       {"name": "Le S",            "role": "Junior Developer",     "discordId": "1200899994333499548"},
+      {"name": "Khana",           "role": "Junior Developer",     "discordId": "972568615712866384"},
       {"name": "Nix",             "role": "Trial Developer",      "discordId": "181111061360017408"},
       {"name": "Raya",            "role": "Trial Developer",      "discordId": "250373369516523523"}
     ]
@@ -34,7 +35,6 @@
     "cols": 3,
     "members": [
       {"name": "Tombha",       "role": "Administrator",           "discordId": "339731265924104193"},
-      {"name": "Khana",        "role": "Senior Moderator",        "discordId": "972568615712866384"},
       {"name": "Grace",        "role": "Senior Moderator",        "discordId": "675864546799386655"},
       {"name": "Eymasnob",     "role": "Senior Moderator",        "discordId": "888120181384171551"},
       {"name": "Marc",         "role": "Moderator",               "discordId": "363114697706307595"},
