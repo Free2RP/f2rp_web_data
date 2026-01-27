@@ -41,7 +41,8 @@
       {"name": "Dudekid",      "role": "Moderator",               "discordId": "939388179851649125"},
       {"name": "Fey",          "role": "Moderator",               "discordId": "92704203448811520"},
       {"name": "Sebastien",    "role": "Moderator",               "discordId": "237355651335061505"},
-      {"name": "CJ Dior",      "role": "Moderator",               "discordId": "972168907030949919"}
+      {"name": "CJ Dior",      "role": "Moderator",               "discordId": "972168907030949919"},
+      {"name": "Clairbear",    "role": "Moderator",               "discordId": "330500593410113551"}
     ]
   },
   {
@@ -53,7 +54,11 @@
       {"name": "Kyle",         "role": "Helper",                  "discordId": "520794460079259658"},
       {"name": "Mischa",       "role": "Helper",                  "discordId": "118200009828204550"},
       {"name": "TobiasReaper", "role": "Helper",                  "discordId": "312029001491415041"},
-      {"name": "Clairbear",    "role": "Helper",                  "discordId": "330500593410113551"}
+      {"name": "Turkey",       "role": "Helper",                  "discordId": "651903808380600320"},
+      {"name": "RC",           "role": "Helper",                  "discordId": "127422202185383937"},
+      {"name": "Dougles",      "role": "Helper",                  "discordId": "868217477987983361"},
+      {"name": "kylegeo",      "role": "Helper",                  "discordId": "164887387015610369"}
+      
     ]
   }
 ]
