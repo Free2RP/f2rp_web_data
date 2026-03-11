@@ -18,14 +18,14 @@
     "description": "Gameplay systems, framework, performance and tooling.",
     "cols": 3,
     "members": [
-      {"name": "Andee",           "role": "3D Lead",              "discordId": "789663303928512513"},
+      {"name": "Andee",           "role": "Clothing Lead",              "discordId": "789663303928512513"},
+      {"name": "Dutch Courage",   "role": "MLO Lead",         "discordId": "178402106246561792"},
       {"name": "Craytex",         "role": "Senior Developer",     "discordId": "195193128062287872"},
-      {"name": "Dutch Courage",   "role": "3D Developer",         "discordId": "178402106246561792"},
-      {"name": "ArkeologeN",      "role": "Developer",            "discordId": "118107984495640580"},
-      {"name": "Le S",            "role": "Junior Developer",     "discordId": "1200899994333499548"},
+      {"name": "ArkeologeN",      "role": "Senior Developer",            "discordId": "118107984495640580"},
+      {"name": "Le S",            "role": "Developer",     "discordId": "1200899994333499548"},
+      {"name": "Raya",            "role": "Developer",      "discordId": "250373369516523523"}
       {"name": "Khana",           "role": "Junior Developer",     "discordId": "972568615712866384"},
-      {"name": "Nix",             "role": "Trial Developer",      "discordId": "181111061360017408"},
-      {"name": "Raya",            "role": "Trial Developer",      "discordId": "250373369516523523"}
+      {"name": "Nix",             "role": "Junior Developer",      "discordId": "181111061360017408"}
     ]
   },
   {
