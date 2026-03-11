@@ -36,8 +36,8 @@
     "cols": 3,
     "members": [
       {"name": "Tombha",       "role": "Administrator",           "discordId": "339731265924104193"},
-      {"name": "Grace",        "role": "Senior Moderator",        "discordId": "675864546799386655"},
-      {"name": "Eymasnob",     "role": "Senior Moderator",        "discordId": "888120181384171551"},
+      {"name": "Grace",        "role": "Administrator",        "discordId": "675864546799386655"},
+      {"name": "Eymasnob",     "role": "Administrator",        "discordId": "888120181384171551"},
       {"name": "Grandpa",      "role": "Moderator",               "discordId": "480351088537763840"},
       {"name": "Dudekid",      "role": "Moderator",               "discordId": "939388179851649125"},
       {"name": "Fey",          "role": "Moderator",               "discordId": "92704203448811520"},
@@ -57,7 +57,6 @@
       {"name": "TobiasReaper", "role": "Helper",                  "discordId": "312029001491415041"},
       {"name": "Turkey",       "role": "Helper",                  "discordId": "651903808380600320"},
       {"name": "RC",           "role": "Helper",                  "discordId": "127422202185383937"},
-      {"name": "Dougles",      "role": "Helper",                  "discordId": "868217477987983361"},
       {"name": "kylegeo",      "role": "Helper",                  "discordId": "164887387015610369"}
       
     ]
