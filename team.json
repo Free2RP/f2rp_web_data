@@ -18,14 +18,14 @@
     "description": "Gameplay systems, framework, performance and tooling.",
     "cols": 3,
     "members": [
-      {"name": "Andee",           "role": "Clothing Lead",              "discordId": "789663303928512513"},
-      {"name": "Dutch Courage",   "role": "MLO Lead",         "discordId": "178402106246561792"},
+      {"name": "Andee",           "role": "Clothing Lead",        "discordId": "789663303928512513"},
+      {"name": "Dutch Courage",   "role": "MLO Lead",             "discordId": "178402106246561792"},
       {"name": "Craytex",         "role": "Senior Developer",     "discordId": "195193128062287872"},
-      {"name": "ArkeologeN",      "role": "Senior Developer",            "discordId": "118107984495640580"},
-      {"name": "Le S",            "role": "Developer",     "discordId": "1200899994333499548"},
-      {"name": "Raya",            "role": "Developer",      "discordId": "250373369516523523"},
+      {"name": "ArkeologeN",      "role": "Senior Developer",     "discordId": "118107984495640580"},
+      {"name": "Le S",            "role": "Developer",            "discordId": "1200899994333499548"},
+      {"name": "Raya",            "role": "Developer",            "discordId": "250373369516523523"},
       {"name": "Khana",           "role": "Junior Developer",     "discordId": "972568615712866384"},
-      {"name": "Monica",             "role": "Junior Developer",      "discordId": "192819346744016896"}
+      {"name": "Monica",          "role": "Junior Developer",     "discordId": "192819346744016896"}
     ]
   },
   {
@@ -34,15 +34,17 @@
     "description": "Coaching-first moderation and community wellness.",
     "cols": 3,
     "members": [
-      {"name": "Tombha",       "role": "Administrator",           "discordId": "339731265924104193"},
-      {"name": "Grace",        "role": "Administrator",        "discordId": "675864546799386655"},
-      {"name": "Eymasnob",     "role": "Administrator",        "discordId": "888120181384171551"},
-      {"name": "Grandpa",      "role": "Moderator",               "discordId": "480351088537763840"},
-      {"name": "Dudekid",      "role": "Moderator",               "discordId": "939388179851649125"},
-      {"name": "Fey",          "role": "Moderator",               "discordId": "92704203448811520"},
-      {"name": "Sebastien",    "role": "Moderator",               "discordId": "237355651335061505"},
-      {"name": "CJ Dior",      "role": "Moderator",               "discordId": "972168907030949919"},
-      {"name": "Clairbear",    "role": "Moderator",               "discordId": "330500593410113551"}
+      {"name": "Tombha",          "role": "Administrator",        "discordId": "339731265924104193"},
+      {"name": "Grace",           "role": "Administrator",        "discordId": "675864546799386655"},
+      {"name": "Eymasnob",        "role": "Administrator",        "discordId": "888120181384171551"},
+      {"name": "Grandpa",         "role": "Moderator",            "discordId": "480351088537763840"},
+      {"name": "Dudekid",         "role": "Moderator",            "discordId": "939388179851649125"},
+      {"name": "Fey",             "role": "Moderator",            "discordId": "92704203448811520"},
+      {"name": "Sebastien",       "role": "Moderator",            "discordId": "237355651335061505"},
+      {"name": "CJ Dior",         "role": "Moderator",            "discordId": "972168907030949919"},
+      {"name": "Clairbear",       "role": "Moderator",            "discordId": "330500593410113551"},
+      {"name": "TobiasReaper",    "role": "Moderator",            "discordId": "312029001491415041"},      
+      {"name": "Turkey",          "role": "Moderator",            "discordId": "651903808380600320"}
     ]
   },
   {
@@ -51,13 +53,9 @@
     "description": "Application Helpers grinding away at your apps.",
     "cols": 3,
     "members": [
-      {"name": "Kyle",         "role": "Helper",                  "discordId": "520794460079259658"},
-      {"name": "Mischa",       "role": "Helper",                  "discordId": "118200009828204550"},
-      {"name": "TobiasReaper", "role": "Helper",                  "discordId": "312029001491415041"},
-      {"name": "Turkey",       "role": "Helper",                  "discordId": "651903808380600320"},
-      {"name": "RC",           "role": "Helper",                  "discordId": "127422202185383937"},
-      {"name": "kylegeo",      "role": "Helper",                  "discordId": "164887387015610369"}
-      
+      {"name": "Morry",           "role": "Helper",               "discordId": "127422202185383937"},
+      {"name": "kylegeo",         "role": "Helper",               "discordId": "164887387015610369"},
+      {"name": "Leonardo",        "role": "Helper",               "discordId": "1483165273505792101"}
     ]
   }
 ]
