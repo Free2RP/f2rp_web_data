@@ -53,9 +53,7 @@
     "description": "Application Helpers grinding away at your apps.",
     "cols": 3,
     "members": [
-      {"name": "Morry",           "role": "Helper",               "discordId": "127422202185383937"},
-      {"name": "kylegeo",         "role": "Helper",               "discordId": "164887387015610369"},
-      {"name": "Leonardo",        "role": "Helper",               "discordId": "128931365675728896"}
+      {"name": "kylegeo",         "role": "Helper",               "discordId": "164887387015610369"}
     ]
   }
 ]
