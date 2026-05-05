@@ -312,6 +312,53 @@
             ]
           }
         ]
+      },
+            {
+        "id": "animals",
+        "title": "Animal Rules",
+        "items": [
+          {
+            "title": "Animal Types",
+            "points": [
+              "Domesticated animals (dogs, cats, etc.) may be comfortable around humans.",
+              "Wild animals would generally avoid or fear human interaction without built trust or bond."
+            ]
+          },
+          {
+            "title": "Animal Communication",
+            "points": [
+              "Do not use your microphone to speak as an animal ped. Using a soundboard is fine, provided that it is realistic to the animal.",
+              "Communication should be conveyed through actions, sounds, and body language. Example: growls, barks, and whines are acceptable; spoken sentences are not."
+            ]
+          },
+          {
+            "title": "Animal Intelligence",
+            "points": [
+              "Animals cannot understand complex language or scenarios.",
+              "Domesticated animals may respond to basic commands (sit, stay, follow). Example: Following a simple command is acceptable; interpreting full conversations is not."
+            ]
+          },
+          {
+            "title": "Animal Item/Inventory Usage",
+            "points": [
+              "Whenever possible you should make use of items from your inventory out of sight of other players, as the animal ped model can distort, breaking immersion.",
+              "This does not include picking up items however as accessing the inventory is the only way to retrieve items from other players."
+            ]
+          },
+          {
+            "title": "Animal Vehicle Interactions",
+            "points": [
+              "Animals may not drive, nor enter or exit vehicles independently, someone must open the door for you. Example: waiting beside a vehicle for assistance is appropriate; entering/exiting alone is not."
+            ]
+          },
+          {
+            "title": "Animal Combat Rules",
+            "points": [
+              "Attacks without prior roleplay are considered RDM. Attacks must be justifiable. Example: combat should only occur when threatened, provoked, or naturally appropriate within the roleplay context.",
+              "Clear warning behaviours must be shown before any attack. Example: /me bares teeth, growls, hisses, backs away."
+            ]
+          }
+        ]
       }
     ]
   }
