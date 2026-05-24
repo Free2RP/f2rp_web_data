@@ -7,9 +7,7 @@
     "members": [
       {"name": "SSHWAAMY",        "role": "Founder",               "discordId": "335801911678599168"},
       {"name": "Jroc26",          "role": "Co-Founder",            "discordId": "188559042220654592"},
-      {"name": "Chewster",        "role": "Co-Founder",            "discordId": "148289176956043264"},
-      {"name": "ThatMaddLadd",    "role": "Development Manager",   "discordId":"251058732027478017"},
-      {"name": "iRoyal",          "role": "Community Manager",     "discordId":"316725368742477835"}
+      {"name": "Chewster",        "role": "Co-Founder",            "discordId": "148289176956043264"}
     ]
   },
   {
@@ -18,13 +16,13 @@
     "description": "Gameplay systems, framework, performance and tooling.",
     "cols": 3,
     "members": [
+      {"name": "ThatMaddLadd",    "role": "Development Manager",  "discordId":"251058732027478017"},
+      {"name": "Craytex",         "role": "Lead Developer",       "discordId": "195193128062287872"},
       {"name": "Andee",           "role": "Clothing Lead",        "discordId": "789663303928512513"},
       {"name": "Dutch Courage",   "role": "MLO Lead",             "discordId": "178402106246561792"},
-      {"name": "Craytex",         "role": "Senior Developer",     "discordId": "195193128062287872"},
       {"name": "ArkeologeN",      "role": "Senior Developer",     "discordId": "118107984495640580"},
       {"name": "Le S",            "role": "Developer",            "discordId": "1200899994333499548"},
-      {"name": "Raya",            "role": "Developer",            "discordId": "250373369516523523"},
-      {"name": "Khana",           "role": "Junior Developer",     "discordId": "972568615712866384"},
+      {"name": "Raya",            "role": "Vehicle Lead",        "discordId": "250373369516523523"},
       {"name": "Monica",          "role": "Junior Developer",     "discordId": "192819346744016896"}
     ]
   },
@@ -33,18 +31,15 @@
     "title": "Staff & Moderation",
     "description": "Coaching-first moderation and community wellness.",
     "cols": 3,
-    "members": [
-      {"name": "Tombha",          "role": "Administrator",        "discordId": "339731265924104193"},
-      {"name": "Grace",           "role": "Administrator",        "discordId": "675864546799386655"},
-      {"name": "Eymasnob",        "role": "Administrator",        "discordId": "888120181384171551"},
-      {"name": "Grandpa",         "role": "Moderator",            "discordId": "480351088537763840"},
-      {"name": "Dudekid",         "role": "Moderator",            "discordId": "939388179851649125"},
-      {"name": "Fey",             "role": "Moderator",            "discordId": "92704203448811520"},
-      {"name": "Sebastien",       "role": "Moderator",            "discordId": "237355651335061505"},
-      {"name": "CJ Dior",         "role": "Moderator",            "discordId": "972168907030949919"},
-      {"name": "Clairbear",       "role": "Moderator",            "discordId": "330500593410113551"},
-      {"name": "TobiasReaper",    "role": "Moderator",            "discordId": "312029001491415041"},      
-      {"name": "Turkey",          "role": "Moderator",            "discordId": "651903808380600320"}
+    "members": [ 
+      {"name": "Tombha",          "role": "Senior Community Manager",        "discordId": "339731265924104193"},
+      {"name": "Eymasnob",        "role": "Senior Community Manager",        "discordId": "888120181384171551"},
+      {"name": "Grandpa",         "role": "Community Manager",            "discordId": "480351088537763840"},
+      {"name": "Dudekid",         "role": "Community Manager",            "discordId": "939388179851649125"},
+      {"name": "Sebastien",       "role": "Community Manager",            "discordId": "237355651335061505"},
+      {"name": "CJ Dior",         "role": "Community Manager",            "discordId": "972168907030949919"},
+      {"name": "Clairbear",       "role": "Community Manager",            "discordId": "330500593410113551"},
+      {"name": "Turkey",          "role": "Community Manager",            "discordId": "651903808380600320"}
     ]
   },
   {
@@ -53,7 +48,11 @@
     "description": "Application Helpers grinding away at your apps.",
     "cols": 3,
     "members": [
-      {"name": "kylegeo",         "role": "Helper",               "discordId": "164887387015610369"}
+      {"name": "Kylegeo",         "role": "Helper",               "discordId": "164887387015610369"},
+      {"name": "Verbrator",       "role": "Helper",               "discordId": "273443108249796609"},
+      {"name": "Suess",            "role": "Helper",               "discordId": "1132106373170200607"},
+      {"name": "msspazmodicd",    "role": "Helper",               "discordId": "607713622210117665"},
+      {"name": "Zagen",           "role": "Helper",               "discordId": "84328827580321792"}
     ]
   }
 ]
